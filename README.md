@@ -1,6 +1,8 @@
 # kuberTENes
 Kubernetes Birthday Bash - A trip down memory lane
 
+![kubernetes happy birthday sticker](happy-10th-birthday-to-kubernetes.png)
+
 - [Kubernetes History Blog Article - Brenden Burns](https://kubernetes.io/blog/2018/07/20/the-history-of-kubernetes-the-community-behind-it/)
 - [Run K8s v1.0 in the browser](https://github.com/spurin/kubernetes-v1.0-lab)
 - [Kubernetes Movie - PART 1](https://youtu.be/BE77h7dmoQU?si=5Zhw5KPi8az4Ma3L)
