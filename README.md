@@ -1,5 +1,5 @@
 # kuberTENes
-Kubernetes Birthday Bash - A trip down memory lane
+Kubernetes 10th Birthday Bash - A trip down memory lane
 
 ![kubernetes happy birthday sticker](happy-10th-birthday-to-kubernetes.png)
 
